@@ -1,5 +1,5 @@
 {
-  "name": "YouTube Timestamp Bookmarker - Gravitate Webs",
+  "name": "YouTube Timestamp Bookmarker - Gary Tate",
   "version": "0.1.0.0",
   "description": "Saving timestamps in YouTube videos",
   "permissions": ["storage", "tabs"],
@@ -30,7 +30,7 @@
       "24": "assets/ext-icon.png",
       "32": "assets/ext-icon.png"
     },
-    "default_title": "YouTube Timestamp Bookmarker - Gravitate Webs",
+    "default_title": "YouTube Timestamp Bookmarker - Gary Tate",
     "default_popup": "popup.html"
   },
   "manifest_version": 3
